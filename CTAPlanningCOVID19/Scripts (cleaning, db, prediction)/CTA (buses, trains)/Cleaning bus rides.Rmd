@@ -1,0 +1,37 @@
+---
+title: "Cleaning Bus Rides"
+author: "Oleksiy Anokhin"
+date: "6/13/2020"
+output: html_document
+---
+
+```{r, message = FALSE, warning = FALSE}
+# Istall packages
+library(tidyverse)
+library(lubridate)
+
+# Read data
+buses <- read_csv('CTA_-_Ridership_-_Bus_Routes_-_Daily_Totals_by_Route.csv')  
+head(buses)
+
+# Drop daytime column
+# buses <- buses %>% select(route, date, rides)
+# head(buses)
+
+# Convert to date
+buses$date <- mdy(buses$date)
+class(buses$date)
+
+# Filter only for 2019 and 2020
+buses_19_20 <- filter(buses, date >= "2019-01-01" & date <= "2020-03-30")
+buses_19_20
+
+# To capital case only column
+names(buses_19_20) <- str_to_title(names(buses_19_20))
+
+# Double check column names
+head(buses_19_20)
+
+# Save as csv
+# write.csv(buses_19_20, "Bus_Ridership.csv", row.names = FALSE)
+```

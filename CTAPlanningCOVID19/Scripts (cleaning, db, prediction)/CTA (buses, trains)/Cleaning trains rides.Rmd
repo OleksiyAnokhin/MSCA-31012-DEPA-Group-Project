@@ -1,0 +1,39 @@
+---
+title: "Cleaning train rides"
+author: "Oleksiy Anokhin"
+date: "6/13/2020"
+output: html_document
+---
+
+```{r, message = FALSE, warning = FALSE}
+
+# Istall packages
+library(tidyverse)
+library(lubridate)
+
+# Read data
+trains <- read_csv('CTA_-_Ridership_-__L__Station_Entries_-_Daily_Totals.csv')  
+head(trains)
+
+# Convert to date
+trains$date <- mdy(trains$date)
+class(trains$date)
+
+# Filter only for 2019 and 2020
+trains_19_20 <- filter(trains, date >= "2019-01-01" & date <= "2020-03-30")
+trains_19_20
+
+# To capital case only column
+names(trains_19_20) <- str_to_title(names(trains_19_20))
+
+# Rename
+trains_19_20 <- rename(trains_19_20, Station_name = Stationname)
+
+# Double check column names
+head(trains_19_20)
+
+# Save as csv
+# write.csv(trains_19_20, "Train_Ridership.csv", row.names = FALSE)
+```
+
+

@@ -1,0 +1,1177 @@
+industry_id,zip_code,value
+All industries,60601,"83,381"
+All industries,60602,"26,463"
+All industries,60603,"56,667"
+All industries,60604,"36,249"
+All industries,60606,"139,075"
+All industries,60607,"48,948"
+All industries,60608,"30,651"
+All industries,60609,"16,738"
+All industries,60610,"86,392"
+All industries,60611,"92,449"
+All industries,60612,"24,102"
+All industries,60613,"14,389"
+All industries,60614,"31,087"
+All industries,60615,"5,375"
+All industries,60616,"20,866"
+All industries,60617,"11,245"
+All industries,60618,"22,165"
+All industries,60619,"5,572"
+All industries,60620,"6,498"
+All industries,60621,"2,380"
+All industries,60622,"26,580"
+All industries,60623,"10,810"
+All industries,60624,"5,674"
+All industries,60625,"11,197"
+All industries,60626,"8,756"
+All industries,60627,43
+All industries,60628,"5,261"
+All industries,60629,"7,235"
+All industries,60630,"9,203"
+All industries,60631,"21,087"
+All industries,60632,"24,863"
+All industries,60633,"7,498"
+All industries,60634,"9,012"
+All industries,60635,"3,081"
+All industries,60636,"3,598"
+All industries,60637,"24,441"
+All industries,60638,"22,423"
+All industries,60639,"13,419"
+All industries,60640,"18,570"
+All industries,60641,"11,533"
+All industries,60643,"6,656"
+All industries,60644,"5,549"
+All industries,60645,"8,113"
+All industries,60646,"8,430"
+All industries,60647,"20,401"
+All industries,60649,"3,992"
+All industries,60651,"5,735"
+All industries,60652,"5,665"
+All industries,60653,"2,917"
+All industries,60655,"3,286"
+All industries,60656,"4,312"
+All industries,60657,"17,574"
+All industries,60659,"7,910"
+All industries,60660,"10,197"
+All industries,60661,"32,151"
+All industries,60666,"35,547"
+"Agriculture, forestry, fishing, & hunting",60601,0
+"Agriculture, forestry, fishing, & hunting",60602,0
+"Agriculture, forestry, fishing, & hunting",60603,0
+"Agriculture, forestry, fishing, & hunting",60604,0
+"Agriculture, forestry, fishing, & hunting",60606,0
+"Agriculture, forestry, fishing, & hunting",60607,10
+"Agriculture, forestry, fishing, & hunting",60608,0
+"Agriculture, forestry, fishing, & hunting",60609,0
+"Agriculture, forestry, fishing, & hunting",60610,0
+"Agriculture, forestry, fishing, & hunting",60611,0
+"Agriculture, forestry, fishing, & hunting",60612,0
+"Agriculture, forestry, fishing, & hunting",60613,0
+"Agriculture, forestry, fishing, & hunting",60614,0
+"Agriculture, forestry, fishing, & hunting",60615,0
+"Agriculture, forestry, fishing, & hunting",60616,0
+"Agriculture, forestry, fishing, & hunting",60617,0
+"Agriculture, forestry, fishing, & hunting",60618,0
+"Agriculture, forestry, fishing, & hunting",60619,0
+"Agriculture, forestry, fishing, & hunting",60620,0
+"Agriculture, forestry, fishing, & hunting",60621,0
+"Agriculture, forestry, fishing, & hunting",60622,0
+"Agriculture, forestry, fishing, & hunting",60623,0
+"Agriculture, forestry, fishing, & hunting",60624,0
+"Agriculture, forestry, fishing, & hunting",60625,0
+"Agriculture, forestry, fishing, & hunting",60626,0
+"Agriculture, forestry, fishing, & hunting",60627,0
+"Agriculture, forestry, fishing, & hunting",60628,0
+"Agriculture, forestry, fishing, & hunting",60629,0
+"Agriculture, forestry, fishing, & hunting",60630,0
+"Agriculture, forestry, fishing, & hunting",60631,0
+"Agriculture, forestry, fishing, & hunting",60632,0
+"Agriculture, forestry, fishing, & hunting",60633,0
+"Agriculture, forestry, fishing, & hunting",60634,0
+"Agriculture, forestry, fishing, & hunting",60635,0
+"Agriculture, forestry, fishing, & hunting",60636,0
+"Agriculture, forestry, fishing, & hunting",60637,0
+"Agriculture, forestry, fishing, & hunting",60638,0
+"Agriculture, forestry, fishing, & hunting",60639,0
+"Agriculture, forestry, fishing, & hunting",60640,0
+"Agriculture, forestry, fishing, & hunting",60641,0
+"Agriculture, forestry, fishing, & hunting",60643,0
+"Agriculture, forestry, fishing, & hunting",60644,0
+"Agriculture, forestry, fishing, & hunting",60645,0
+"Agriculture, forestry, fishing, & hunting",60646,0
+"Agriculture, forestry, fishing, & hunting",60647,0
+"Agriculture, forestry, fishing, & hunting",60649,0
+"Agriculture, forestry, fishing, & hunting",60651,0
+"Agriculture, forestry, fishing, & hunting",60652,0
+"Agriculture, forestry, fishing, & hunting",60653,0
+"Agriculture, forestry, fishing, & hunting",60655,0
+"Agriculture, forestry, fishing, & hunting",60656,0
+"Agriculture, forestry, fishing, & hunting",60657,0
+"Agriculture, forestry, fishing, & hunting",60659,0
+"Agriculture, forestry, fishing, & hunting",60660,0
+"Agriculture, forestry, fishing, & hunting",60661,0
+"Agriculture, forestry, fishing, & hunting",60666,0
+"Mining, quarrying, & oil and gas extraction ",60601,0
+"Mining, quarrying, & oil and gas extraction ",60602,0
+"Mining, quarrying, & oil and gas extraction ",60603,0
+"Mining, quarrying, & oil and gas extraction ",60604,0
+"Mining, quarrying, & oil and gas extraction ",60606,0
+"Mining, quarrying, & oil and gas extraction ",60607,0
+"Mining, quarrying, & oil and gas extraction ",60608,0
+"Mining, quarrying, & oil and gas extraction ",60609,0
+"Mining, quarrying, & oil and gas extraction ",60610,0
+"Mining, quarrying, & oil and gas extraction ",60611,0
+"Mining, quarrying, & oil and gas extraction ",60612,0
+"Mining, quarrying, & oil and gas extraction ",60613,0
+"Mining, quarrying, & oil and gas extraction ",60614,0
+"Mining, quarrying, & oil and gas extraction ",60615,0
+"Mining, quarrying, & oil and gas extraction ",60616,0
+"Mining, quarrying, & oil and gas extraction ",60617,0
+"Mining, quarrying, & oil and gas extraction ",60618,0
+"Mining, quarrying, & oil and gas extraction ",60619,0
+"Mining, quarrying, & oil and gas extraction ",60620,0
+"Mining, quarrying, & oil and gas extraction ",60621,0
+"Mining, quarrying, & oil and gas extraction ",60622,0
+"Mining, quarrying, & oil and gas extraction ",60623,0
+"Mining, quarrying, & oil and gas extraction ",60624,0
+"Mining, quarrying, & oil and gas extraction ",60625,0
+"Mining, quarrying, & oil and gas extraction ",60626,0
+"Mining, quarrying, & oil and gas extraction ",60627,0
+"Mining, quarrying, & oil and gas extraction ",60628,0
+"Mining, quarrying, & oil and gas extraction ",60629,0
+"Mining, quarrying, & oil and gas extraction ",60630,0
+"Mining, quarrying, & oil and gas extraction ",60631,0
+"Mining, quarrying, & oil and gas extraction ",60632,0
+"Mining, quarrying, & oil and gas extraction ",60633,0
+"Mining, quarrying, & oil and gas extraction ",60634,0
+"Mining, quarrying, & oil and gas extraction ",60635,0
+"Mining, quarrying, & oil and gas extraction ",60636,0
+"Mining, quarrying, & oil and gas extraction ",60637,0
+"Mining, quarrying, & oil and gas extraction ",60638,0
+"Mining, quarrying, & oil and gas extraction ",60639,0
+"Mining, quarrying, & oil and gas extraction ",60640,0
+"Mining, quarrying, & oil and gas extraction ",60641,0
+"Mining, quarrying, & oil and gas extraction ",60643,0
+"Mining, quarrying, & oil and gas extraction ",60644,0
+"Mining, quarrying, & oil and gas extraction ",60645,0
+"Mining, quarrying, & oil and gas extraction ",60646,0
+"Mining, quarrying, & oil and gas extraction ",60647,0
+"Mining, quarrying, & oil and gas extraction ",60649,0
+"Mining, quarrying, & oil and gas extraction ",60651,0
+"Mining, quarrying, & oil and gas extraction ",60652,0
+"Mining, quarrying, & oil and gas extraction ",60653,0
+"Mining, quarrying, & oil and gas extraction ",60655,0
+"Mining, quarrying, & oil and gas extraction ",60656,0
+"Mining, quarrying, & oil and gas extraction ",60657,0
+"Mining, quarrying, & oil and gas extraction ",60659,0
+"Mining, quarrying, & oil and gas extraction ",60660,0
+"Mining, quarrying, & oil and gas extraction ",60661,0
+"Mining, quarrying, & oil and gas extraction ",60666,0
+Utilities,60601,0
+Utilities,60602,0
+Utilities,60603,0
+Utilities,60604,0
+Utilities,60606,545
+Utilities,60607,0
+Utilities,60608,0
+Utilities,60609,0
+Utilities,60610,0
+Utilities,60611,0
+Utilities,60612,0
+Utilities,60613,0
+Utilities,60614,0
+Utilities,60615,0
+Utilities,60616,0
+Utilities,60617,0
+Utilities,60618,0
+Utilities,60619,0
+Utilities,60620,0
+Utilities,60621,0
+Utilities,60622,0
+Utilities,60623,0
+Utilities,60624,0
+Utilities,60625,0
+Utilities,60626,0
+Utilities,60627,0
+Utilities,60628,0
+Utilities,60629,0
+Utilities,60630,0
+Utilities,60631,0
+Utilities,60632,0
+Utilities,60633,0
+Utilities,60634,0
+Utilities,60635,0
+Utilities,60636,0
+Utilities,60637,0
+Utilities,60638,0
+Utilities,60639,0
+Utilities,60640,0
+Utilities,60641,0
+Utilities,60643,0
+Utilities,60644,0
+Utilities,60645,0
+Utilities,60646,0
+Utilities,60647,0
+Utilities,60649,0
+Utilities,60651,0
+Utilities,60652,0
+Utilities,60653,0
+Utilities,60655,0
+Utilities,60656,0
+Utilities,60657,0
+Utilities,60659,0
+Utilities,60660,0
+Utilities,60661,29
+Utilities,60666,0
+Construction,60601,543
+Construction,60602,112
+Construction,60603,321
+Construction,60604,145
+Construction,60606,"1,508"
+Construction,60607,"2,318"
+Construction,60608,633
+Construction,60609,503
+Construction,60610,657
+Construction,60611,191
+Construction,60612,719
+Construction,60613,241
+Construction,60614,962
+Construction,60615,105
+Construction,60616,917
+Construction,60617,464
+Construction,60618,"1,186"
+Construction,60619,236
+Construction,60620,170
+Construction,60621,43
+Construction,60622,"1,188"
+Construction,60623,383
+Construction,60624,0
+Construction,60625,206
+Construction,60626,51
+Construction,60627,0
+Construction,60628,113
+Construction,60629,161
+Construction,60630,740
+Construction,60631,635
+Construction,60632,510
+Construction,60633,0
+Construction,60634,587
+Construction,60635,0
+Construction,60636,89
+Construction,60637,37
+Construction,60638,388
+Construction,60639,507
+Construction,60640,70
+Construction,60641,535
+Construction,60643,0
+Construction,60644,0
+Construction,60645,44
+Construction,60646,388
+Construction,60647,534
+Construction,60649,234
+Construction,60651,354
+Construction,60652,202
+Construction,60653,98
+Construction,60655,109
+Construction,60656,363
+Construction,60657,169
+Construction,60659,93
+Construction,60660,95
+Construction,60661,290
+Construction,60666,0
+"Food, beverage & tobacco manufacturing",60601,0
+"Food, beverage & tobacco manufacturing",60602,0
+"Food, beverage & tobacco manufacturing",60603,0
+"Food, beverage & tobacco manufacturing",60604,0
+"Food, beverage & tobacco manufacturing",60606,0
+"Food, beverage & tobacco manufacturing",60607,"1,352"
+"Food, beverage & tobacco manufacturing",60608,"1,473"
+"Food, beverage & tobacco manufacturing",60609,"2,685"
+"Food, beverage & tobacco manufacturing",60610,732
+"Food, beverage & tobacco manufacturing",60611,187
+"Food, beverage & tobacco manufacturing",60612,756
+"Food, beverage & tobacco manufacturing",60613,74
+"Food, beverage & tobacco manufacturing",60614,87
+"Food, beverage & tobacco manufacturing",60615,64
+"Food, beverage & tobacco manufacturing",60616,224
+"Food, beverage & tobacco manufacturing",60617,84
+"Food, beverage & tobacco manufacturing",60618,992
+"Food, beverage & tobacco manufacturing",60619,0
+"Food, beverage & tobacco manufacturing",60620,0
+"Food, beverage & tobacco manufacturing",60621,0
+"Food, beverage & tobacco manufacturing",60622,279
+"Food, beverage & tobacco manufacturing",60623,843
+"Food, beverage & tobacco manufacturing",60624,195
+"Food, beverage & tobacco manufacturing",60625,26
+"Food, beverage & tobacco manufacturing",60626,87
+"Food, beverage & tobacco manufacturing",60627,0
+"Food, beverage & tobacco manufacturing",60628,41
+"Food, beverage & tobacco manufacturing",60629,0
+"Food, beverage & tobacco manufacturing",60630,163
+"Food, beverage & tobacco manufacturing",60631,84
+"Food, beverage & tobacco manufacturing",60632,"1,597"
+"Food, beverage & tobacco manufacturing",60633,0
+"Food, beverage & tobacco manufacturing",60634,0
+"Food, beverage & tobacco manufacturing",60635,405
+"Food, beverage & tobacco manufacturing",60636,0
+"Food, beverage & tobacco manufacturing",60637,0
+"Food, beverage & tobacco manufacturing",60638,835
+"Food, beverage & tobacco manufacturing",60639,"1,635"
+"Food, beverage & tobacco manufacturing",60640,173
+"Food, beverage & tobacco manufacturing",60641,86
+"Food, beverage & tobacco manufacturing",60643,0
+"Food, beverage & tobacco manufacturing",60644,0
+"Food, beverage & tobacco manufacturing",60645,57
+"Food, beverage & tobacco manufacturing",60646,0
+"Food, beverage & tobacco manufacturing",60647,396
+"Food, beverage & tobacco manufacturing",60649,0
+"Food, beverage & tobacco manufacturing",60651,0
+"Food, beverage & tobacco manufacturing",60652,0
+"Food, beverage & tobacco manufacturing",60653,0
+"Food, beverage & tobacco manufacturing",60655,0
+"Food, beverage & tobacco manufacturing",60656,0
+"Food, beverage & tobacco manufacturing",60657,120
+"Food, beverage & tobacco manufacturing",60659,38
+"Food, beverage & tobacco manufacturing",60660,18
+"Food, beverage & tobacco manufacturing",60661,0
+"Food, beverage & tobacco manufacturing",60666,0
+Other manufacturing,60601,0
+Other manufacturing,60602,143
+Other manufacturing,60603,356
+Other manufacturing,60604,0
+Other manufacturing,60606,"1,313"
+Other manufacturing,60607,"1,389"
+Other manufacturing,60608,"1,427"
+Other manufacturing,60609,"3,375"
+Other manufacturing,60610,"1,216"
+Other manufacturing,60611,245
+Other manufacturing,60612,"1,208"
+Other manufacturing,60613,288
+Other manufacturing,60614,756
+Other manufacturing,60615,43
+Other manufacturing,60616,487
+Other manufacturing,60617,347
+Other manufacturing,60618,"1,439"
+Other manufacturing,60619,211
+Other manufacturing,60620,273
+Other manufacturing,60621,0
+Other manufacturing,60622,754
+Other manufacturing,60623,"2,058"
+Other manufacturing,60624,844
+Other manufacturing,60625,205
+Other manufacturing,60626,-87
+Other manufacturing,60627,0
+Other manufacturing,60628,686
+Other manufacturing,60629,697
+Other manufacturing,60630,"1,279"
+Other manufacturing,60631,584
+Other manufacturing,60632,"3,354"
+Other manufacturing,60633,"5,922"
+Other manufacturing,60634,520
+Other manufacturing,60635,-405
+Other manufacturing,60636,205
+Other manufacturing,60637,0
+Other manufacturing,60638,"2,304"
+Other manufacturing,60639,"2,167"
+Other manufacturing,60640,713
+Other manufacturing,60641,842
+Other manufacturing,60643,301
+Other manufacturing,60644,749
+Other manufacturing,60645,17
+Other manufacturing,60646,652
+Other manufacturing,60647,577
+Other manufacturing,60649,0
+Other manufacturing,60651,"2,090"
+Other manufacturing,60652,"1,659"
+Other manufacturing,60653,0
+Other manufacturing,60655,0
+Other manufacturing,60656,53
+Other manufacturing,60657,215
+Other manufacturing,60659,86
+Other manufacturing,60660,-18
+Other manufacturing,60661,708
+Other manufacturing,60666,0
+Wholesale trade ,60601,900
+Wholesale trade ,60602,555
+Wholesale trade ,60603,808
+Wholesale trade ,60604,350
+Wholesale trade ,60606,"3,490"
+Wholesale trade ,60607,"2,278"
+Wholesale trade ,60608,"3,091"
+Wholesale trade ,60609,"3,014"
+Wholesale trade ,60610,"3,314"
+Wholesale trade ,60611,778
+Wholesale trade ,60612,"1,087"
+Wholesale trade ,60613,142
+Wholesale trade ,60614,786
+Wholesale trade ,60615,0
+Wholesale trade ,60616,789
+Wholesale trade ,60617,408
+Wholesale trade ,60618,744
+Wholesale trade ,60619,145
+Wholesale trade ,60620,192
+Wholesale trade ,60621,49
+Wholesale trade ,60622,"1,248"
+Wholesale trade ,60623,459
+Wholesale trade ,60624,712
+Wholesale trade ,60625,194
+Wholesale trade ,60626,69
+Wholesale trade ,60627,0
+Wholesale trade ,60628,454
+Wholesale trade ,60629,87
+Wholesale trade ,60630,401
+Wholesale trade ,60631,"1,309"
+Wholesale trade ,60632,"1,713"
+Wholesale trade ,60633,365
+Wholesale trade ,60634,253
+Wholesale trade ,60635,0
+Wholesale trade ,60636,69
+Wholesale trade ,60637,0
+Wholesale trade ,60638,935
+Wholesale trade ,60639,635
+Wholesale trade ,60640,239
+Wholesale trade ,60641,"1,577"
+Wholesale trade ,60643,243
+Wholesale trade ,60644,244
+Wholesale trade ,60645,29
+Wholesale trade ,60646,742
+Wholesale trade ,60647,462
+Wholesale trade ,60649,11
+Wholesale trade ,60651,727
+Wholesale trade ,60652,128
+Wholesale trade ,60653,0
+Wholesale trade ,60655,25
+Wholesale trade ,60656,0
+Wholesale trade ,60657,162
+Wholesale trade ,60659,109
+Wholesale trade ,60660,212
+Wholesale trade ,60661,"1,445"
+Wholesale trade ,60666,0
+Retail trade ,60601,"1,111"
+Retail trade ,60602,"2,070"
+Retail trade ,60603,"2,458"
+Retail trade ,60604,316
+Retail trade ,60606,780
+Retail trade ,60607,"2,689"
+Retail trade ,60608,"2,197"
+Retail trade ,60609,"1,356"
+Retail trade ,60610,"5,676"
+Retail trade ,60611,"11,489"
+Retail trade ,60612,749
+Retail trade ,60613,908
+Retail trade ,60614,"5,873"
+Retail trade ,60615,"1,047"
+Retail trade ,60616,"1,415"
+Retail trade ,60617,926
+Retail trade ,60618,"3,185"
+Retail trade ,60619,"1,096"
+Retail trade ,60620,"2,199"
+Retail trade ,60621,295
+Retail trade ,60622,"2,880"
+Retail trade ,60623,928
+Retail trade ,60624,424
+Retail trade ,60625,811
+Retail trade ,60626,796
+Retail trade ,60627,0
+Retail trade ,60628,619
+Retail trade ,60629,862
+Retail trade ,60630,"1,439"
+Retail trade ,60631,252
+Retail trade ,60632,"2,223"
+Retail trade ,60633,0
+Retail trade ,60634,"1,458"
+Retail trade ,60635,779
+Retail trade ,60636,"1,572"
+Retail trade ,60637,602
+Retail trade ,60638,"1,415"
+Retail trade ,60639,"3,620"
+Retail trade ,60640,"1,903"
+Retail trade ,60641,"2,129"
+Retail trade ,60643,"1,128"
+Retail trade ,60644,586
+Retail trade ,60645,467
+Retail trade ,60646,631
+Retail trade ,60647,"3,271"
+Retail trade ,60649,552
+Retail trade ,60651,533
+Retail trade ,60652,"1,293"
+Retail trade ,60653,492
+Retail trade ,60655,444
+Retail trade ,60656,477
+Retail trade ,60657,"3,217"
+Retail trade ,60659,"1,291"
+Retail trade ,60660,630
+Retail trade ,60661,"1,054"
+Retail trade ,60666,391
+Transportation & warehousing ,60601,308
+Transportation & warehousing ,60602,69
+Transportation & warehousing ,60603,48
+Transportation & warehousing ,60604,210
+Transportation & warehousing ,60606,"1,524"
+Transportation & warehousing ,60607,"8,884"
+Transportation & warehousing ,60608,"2,132"
+Transportation & warehousing ,60609,"1,092"
+Transportation & warehousing ,60610,332
+Transportation & warehousing ,60611,891
+Transportation & warehousing ,60612,167
+Transportation & warehousing ,60613,59
+Transportation & warehousing ,60614,120
+Transportation & warehousing ,60615,14
+Transportation & warehousing ,60616,153
+Transportation & warehousing ,60617,634
+Transportation & warehousing ,60618,292
+Transportation & warehousing ,60619,0
+Transportation & warehousing ,60620,463
+Transportation & warehousing ,60621,6
+Transportation & warehousing ,60622,"1,811"
+Transportation & warehousing ,60623,181
+Transportation & warehousing ,60624,156
+Transportation & warehousing ,60625,74
+Transportation & warehousing ,60626,15
+Transportation & warehousing ,60627,0
+Transportation & warehousing ,60628,673
+Transportation & warehousing ,60629,420
+Transportation & warehousing ,60630,196
+Transportation & warehousing ,60631,134
+Transportation & warehousing ,60632,"4,544"
+Transportation & warehousing ,60633,294
+Transportation & warehousing ,60634,253
+Transportation & warehousing ,60635,23
+Transportation & warehousing ,60636,116
+Transportation & warehousing ,60637,22
+Transportation & warehousing ,60638,"8,583"
+Transportation & warehousing ,60639,111
+Transportation & warehousing ,60640,0
+Transportation & warehousing ,60641,241
+Transportation & warehousing ,60643,47
+Transportation & warehousing ,60644,0
+Transportation & warehousing ,60645,55
+Transportation & warehousing ,60646,207
+Transportation & warehousing ,60647,0
+Transportation & warehousing ,60649,0
+Transportation & warehousing ,60651,0
+Transportation & warehousing ,60652,123
+Transportation & warehousing ,60653,265
+Transportation & warehousing ,60655,20
+Transportation & warehousing ,60656,240
+Transportation & warehousing ,60657,212
+Transportation & warehousing ,60659,47
+Transportation & warehousing ,60660,26
+Transportation & warehousing ,60661,29
+Transportation & warehousing ,60666,"30,436"
+Information ,60601,"4,448"
+Information ,60602,"1,790"
+Information ,60603,"1,016"
+Information ,60604,"1,213"
+Information ,60606,"6,017"
+Information ,60607,946
+Information ,60608,"1,066"
+Information ,60609,58
+Information ,60610,"8,544"
+Information ,60611,"5,039"
+Information ,60612,76
+Information ,60613,129
+Information ,60614,"1,494"
+Information ,60615,120
+Information ,60616,223
+Information ,60617,48
+Information ,60618,948
+Information ,60619,15
+Information ,60620,95
+Information ,60621,0
+Information ,60622,401
+Information ,60623,29
+Information ,60624,0
+Information ,60625,639
+Information ,60626,55
+Information ,60627,0
+Information ,60628,0
+Information ,60629,64
+Information ,60630,94
+Information ,60631,0
+Information ,60632,22
+Information ,60633,0
+Information ,60634,23
+Information ,60635,0
+Information ,60636,0
+Information ,60637,74
+Information ,60638,81
+Information ,60639,309
+Information ,60640,117
+Information ,60641,127
+Information ,60643,25
+Information ,60644,0
+Information ,60645,11
+Information ,60646,0
+Information ,60647,298
+Information ,60649,4
+Information ,60651,0
+Information ,60652,49
+Information ,60653,0
+Information ,60655,0
+Information ,60656,8
+Information ,60657,376
+Information ,60659,87
+Information ,60660,197
+Information ,60661,"1,847"
+Information ,60666,0
+Finance & insurance ,60601,"15,429"
+Finance & insurance ,60602,"5,047"
+Finance & insurance ,60603,"19,137"
+Finance & insurance ,60604,"7,968"
+Finance & insurance ,60606,"29,697"
+Finance & insurance ,60607,"3,865"
+Finance & insurance ,60608,624
+Finance & insurance ,60609,563
+Finance & insurance ,60610,"4,467"
+Finance & insurance ,60611,"1,966"
+Finance & insurance ,60612,161
+Finance & insurance ,60613,"2,097"
+Finance & insurance ,60614,612
+Finance & insurance ,60615,161
+Finance & insurance ,60616,262
+Finance & insurance ,60617,333
+Finance & insurance ,60618,907
+Finance & insurance ,60619,78
+Finance & insurance ,60620,341
+Finance & insurance ,60621,15
+Finance & insurance ,60622,501
+Finance & insurance ,60623,272
+Finance & insurance ,60624,30
+Finance & insurance ,60625,188
+Finance & insurance ,60626,104
+Finance & insurance ,60627,0
+Finance & insurance ,60628,75
+Finance & insurance ,60629,235
+Finance & insurance ,60630,731
+Finance & insurance ,60631,"1,786"
+Finance & insurance ,60632,403
+Finance & insurance ,60633,112
+Finance & insurance ,60634,509
+Finance & insurance ,60635,0
+Finance & insurance ,60636,76
+Finance & insurance ,60637,36
+Finance & insurance ,60638,453
+Finance & insurance ,60639,248
+Finance & insurance ,60640,425
+Finance & insurance ,60641,533
+Finance & insurance ,60643,282
+Finance & insurance ,60644,23
+Finance & insurance ,60645,254
+Finance & insurance ,60646,627
+Finance & insurance ,60647,333
+Finance & insurance ,60649,48
+Finance & insurance ,60651,18
+Finance & insurance ,60652,102
+Finance & insurance ,60653,67
+Finance & insurance ,60655,84
+Finance & insurance ,60656,315
+Finance & insurance ,60657,280
+Finance & insurance ,60659,396
+Finance & insurance ,60660,107
+Finance & insurance ,60661,"5,606"
+Finance & insurance ,60666,0
+Real estate & rental & leasing ,60601,"1,931"
+Real estate & rental & leasing ,60602,752
+Real estate & rental & leasing ,60603,"1,181"
+Real estate & rental & leasing ,60604,485
+Real estate & rental & leasing ,60606,"4,797"
+Real estate & rental & leasing ,60607,840
+Real estate & rental & leasing ,60608,469
+Real estate & rental & leasing ,60609,196
+Real estate & rental & leasing ,60610,"4,179"
+Real estate & rental & leasing ,60611,"2,032"
+Real estate & rental & leasing ,60612,235
+Real estate & rental & leasing ,60613,538
+Real estate & rental & leasing ,60614,888
+Real estate & rental & leasing ,60615,558
+Real estate & rental & leasing ,60616,920
+Real estate & rental & leasing ,60617,69
+Real estate & rental & leasing ,60618,543
+Real estate & rental & leasing ,60619,98
+Real estate & rental & leasing ,60620,93
+Real estate & rental & leasing ,60621,55
+Real estate & rental & leasing ,60622,899
+Real estate & rental & leasing ,60623,33
+Real estate & rental & leasing ,60624,24
+Real estate & rental & leasing ,60625,96
+Real estate & rental & leasing ,60626,236
+Real estate & rental & leasing ,60627,0
+Real estate & rental & leasing ,60628,63
+Real estate & rental & leasing ,60629,225
+Real estate & rental & leasing ,60630,259
+Real estate & rental & leasing ,60631,306
+Real estate & rental & leasing ,60632,296
+Real estate & rental & leasing ,60633,0
+Real estate & rental & leasing ,60634,110
+Real estate & rental & leasing ,60635,27
+Real estate & rental & leasing ,60636,36
+Real estate & rental & leasing ,60637,301
+Real estate & rental & leasing ,60638,293
+Real estate & rental & leasing ,60639,110
+Real estate & rental & leasing ,60640,"1,143"
+Real estate & rental & leasing ,60641,383
+Real estate & rental & leasing ,60643,69
+Real estate & rental & leasing ,60644,260
+Real estate & rental & leasing ,60645,97
+Real estate & rental & leasing ,60646,261
+Real estate & rental & leasing ,60647,305
+Real estate & rental & leasing ,60649,0
+Real estate & rental & leasing ,60651,77
+Real estate & rental & leasing ,60652,129
+Real estate & rental & leasing ,60653,116
+Real estate & rental & leasing ,60655,27
+Real estate & rental & leasing ,60656,158
+Real estate & rental & leasing ,60657,631
+Real estate & rental & leasing ,60659,176
+Real estate & rental & leasing ,60660,149
+Real estate & rental & leasing ,60661,978
+Real estate & rental & leasing ,60666,453
+"Professional, scientific & technical services",60601,"31,806"
+"Professional, scientific & technical services",60602,"7,956"
+"Professional, scientific & technical services",60603,"13,675"
+"Professional, scientific & technical services",60604,"5,538"
+"Professional, scientific & technical services",60606,"39,582"
+"Professional, scientific & technical services",60607,"5,192"
+"Professional, scientific & technical services",60608,"1,105"
+"Professional, scientific & technical services",60609,624
+"Professional, scientific & technical services",60610,"18,278"
+"Professional, scientific & technical services",60611,"9,227"
+"Professional, scientific & technical services",60612,854
+"Professional, scientific & technical services",60613,"1,074"
+"Professional, scientific & technical services",60614,"1,330"
+"Professional, scientific & technical services",60615,245
+"Professional, scientific & technical services",60616,719
+"Professional, scientific & technical services",60617,417
+"Professional, scientific & technical services",60618,"1,445"
+"Professional, scientific & technical services",60619,64
+"Professional, scientific & technical services",60620,124
+"Professional, scientific & technical services",60621,0
+"Professional, scientific & technical services",60622,"1,839"
+"Professional, scientific & technical services",60623,181
+"Professional, scientific & technical services",60624,148
+"Professional, scientific & technical services",60625,559
+"Professional, scientific & technical services",60626,0
+"Professional, scientific & technical services",60627,0
+"Professional, scientific & technical services",60628,100
+"Professional, scientific & technical services",60629,0
+"Professional, scientific & technical services",60630,330
+"Professional, scientific & technical services",60631,"1,787"
+"Professional, scientific & technical services",60632,160
+"Professional, scientific & technical services",60633,0
+"Professional, scientific & technical services",60634,486
+"Professional, scientific & technical services",60635,65
+"Professional, scientific & technical services",60636,0
+"Professional, scientific & technical services",60637,178
+"Professional, scientific & technical services",60638,207
+"Professional, scientific & technical services",60639,347
+"Professional, scientific & technical services",60640,693
+"Professional, scientific & technical services",60641,466
+"Professional, scientific & technical services",60643,313
+"Professional, scientific & technical services",60644,66
+"Professional, scientific & technical services",60645,0
+"Professional, scientific & technical services",60646,649
+"Professional, scientific & technical services",60647,871
+"Professional, scientific & technical services",60649,83
+"Professional, scientific & technical services",60651,42
+"Professional, scientific & technical services",60652,0
+"Professional, scientific & technical services",60653,0
+"Professional, scientific & technical services",60655,0
+"Professional, scientific & technical services",60656,367
+"Professional, scientific & technical services",60657,"1,097"
+"Professional, scientific & technical services",60659,322
+"Professional, scientific & technical services",60660,0
+"Professional, scientific & technical services",60661,"7,840"
+"Professional, scientific & technical services",60666,210
+Management of companies & enterprises,60601,"3,421"
+Management of companies & enterprises,60602,244
+Management of companies & enterprises,60603,628
+Management of companies & enterprises,60604,118
+Management of companies & enterprises,60606,"3,480"
+Management of companies & enterprises,60607,0
+Management of companies & enterprises,60608,0
+Management of companies & enterprises,60609,80
+Management of companies & enterprises,60610,"1,074"
+Management of companies & enterprises,60611,976
+Management of companies & enterprises,60612,0
+Management of companies & enterprises,60613,0
+Management of companies & enterprises,60614,15
+Management of companies & enterprises,60615,0
+Management of companies & enterprises,60616,0
+Management of companies & enterprises,60617,0
+Management of companies & enterprises,60618,47
+Management of companies & enterprises,60619,0
+Management of companies & enterprises,60620,0
+Management of companies & enterprises,60621,0
+Management of companies & enterprises,60622,0
+Management of companies & enterprises,60623,0
+Management of companies & enterprises,60624,0
+Management of companies & enterprises,60625,0
+Management of companies & enterprises,60626,0
+Management of companies & enterprises,60627,0
+Management of companies & enterprises,60628,0
+Management of companies & enterprises,60629,0
+Management of companies & enterprises,60630,0
+Management of companies & enterprises,60631,842
+Management of companies & enterprises,60632,0
+Management of companies & enterprises,60633,0
+Management of companies & enterprises,60634,0
+Management of companies & enterprises,60635,0
+Management of companies & enterprises,60636,0
+Management of companies & enterprises,60637,0
+Management of companies & enterprises,60638,0
+Management of companies & enterprises,60639,0
+Management of companies & enterprises,60640,320
+Management of companies & enterprises,60641,0
+Management of companies & enterprises,60643,0
+Management of companies & enterprises,60644,0
+Management of companies & enterprises,60645,0
+Management of companies & enterprises,60646,0
+Management of companies & enterprises,60647,14
+Management of companies & enterprises,60649,0
+Management of companies & enterprises,60651,0
+Management of companies & enterprises,60652,0
+Management of companies & enterprises,60653,0
+Management of companies & enterprises,60655,0
+Management of companies & enterprises,60656,0
+Management of companies & enterprises,60657,0
+Management of companies & enterprises,60659,0
+Management of companies & enterprises,60660,0
+Management of companies & enterprises,60661,"1,753"
+Management of companies & enterprises,60666,0
+Administrative & support. & waste management,60601,"7,612"
+Administrative & support. & waste management,60602,"1,991"
+Administrative & support. & waste management,60603,"3,116"
+Administrative & support. & waste management,60604,"3,382"
+Administrative & support. & waste management,60606,"17,265"
+Administrative & support. & waste management,60607,"2,342"
+Administrative & support. & waste management,60608,"5,309"
+Administrative & support. & waste management,60609,218
+Administrative & support. & waste management,60610,"5,941"
+Administrative & support. & waste management,60611,"9,712"
+Administrative & support. & waste management,60612,"1,305"
+Administrative & support. & waste management,60613,918
+Administrative & support. & waste management,60614,"2,536"
+Administrative & support. & waste management,60615,208
+Administrative & support. & waste management,60616,"2,707"
+Administrative & support. & waste management,60617,588
+Administrative & support. & waste management,60618,947
+Administrative & support. & waste management,60619,349
+Administrative & support. & waste management,60620,84
+Administrative & support. & waste management,60621,24
+Administrative & support. & waste management,60622,"1,063"
+Administrative & support. & waste management,60623,697
+Administrative & support. & waste management,60624,42
+Administrative & support. & waste management,60625,66
+Administrative & support. & waste management,60626,105
+Administrative & support. & waste management,60627,0
+Administrative & support. & waste management,60628,52
+Administrative & support. & waste management,60629,203
+Administrative & support. & waste management,60630,587
+Administrative & support. & waste management,60631,"2,423"
+Administrative & support. & waste management,60632,"5,663"
+Administrative & support. & waste management,60633,207
+Administrative & support. & waste management,60634,569
+Administrative & support. & waste management,60635,37
+Administrative & support. & waste management,60636,44
+Administrative & support. & waste management,60637,35
+Administrative & support. & waste management,60638,"3,071"
+Administrative & support. & waste management,60639,993
+Administrative & support. & waste management,60640,432
+Administrative & support. & waste management,60641,989
+Administrative & support. & waste management,60643,547
+Administrative & support. & waste management,60644,27
+Administrative & support. & waste management,60645,"1,058"
+Administrative & support. & waste management,60646,235
+Administrative & support. & waste management,60647,"3,870"
+Administrative & support. & waste management,60649,232
+Administrative & support. & waste management,60651,221
+Administrative & support. & waste management,60652,59
+Administrative & support. & waste management,60653,50
+Administrative & support. & waste management,60655,286
+Administrative & support. & waste management,60656,796
+Administrative & support. & waste management,60657,649
+Administrative & support. & waste management,60659,204
+Administrative & support. & waste management,60660,75
+Administrative & support. & waste management,60661,"6,499"
+Administrative & support. & waste management,60666,664
+Educational services ,60601,"1,248"
+Educational services ,60602,0
+Educational services ,60603,"1,217"
+Educational services ,60604,0
+Educational services ,60606,789
+Educational services ,60607,"1,277"
+Educational services ,60608,"1,014"
+Educational services ,60609,318
+Educational services ,60610,"3,838"
+Educational services ,60611,0
+Educational services ,60612,429
+Educational services ,60613,525
+Educational services ,60614,"1,283"
+Educational services ,60615,533
+Educational services ,60616,"2,268"
+Educational services ,60617,252
+Educational services ,60618,831
+Educational services ,60619,199
+Educational services ,60620,187
+Educational services ,60621,0
+Educational services ,60622,"1,827"
+Educational services ,60623,526
+Educational services ,60624,928
+Educational services ,60625,"1,231"
+Educational services ,60626,0
+Educational services ,60627,0
+Educational services ,60628,85
+Educational services ,60629,0
+Educational services ,60630,282
+Educational services ,60631,563
+Educational services ,60632,614
+Educational services ,60633,0
+Educational services ,60634,510
+Educational services ,60635,80
+Educational services ,60636,261
+Educational services ,60637,0
+Educational services ,60638,197
+Educational services ,60639,65
+Educational services ,60640,787
+Educational services ,60641,205
+Educational services ,60643,579
+Educational services ,60644,72
+Educational services ,60645,167
+Educational services ,60646,247
+Educational services ,60647,423
+Educational services ,60649,61
+Educational services ,60651,92
+Educational services ,60652,0
+Educational services ,60653,0
+Educational services ,60655,"1,240"
+Educational services ,60656,498
+Educational services ,60657,649
+Educational services ,60659,116
+Educational services ,60660,0
+Educational services ,60661,0
+Educational services ,60666,0
+Health care & social assistance ,60601,"2,035"
+Health care & social assistance ,60602,"2,617"
+Health care & social assistance ,60603,"1,890"
+Health care & social assistance ,60604,"7,438"
+Health care & social assistance ,60606,0
+Health care & social assistance ,60607,"2,415"
+Health care & social assistance ,60608,"6,829"
+Health care & social assistance ,60609,819
+Health care & social assistance ,60610,"4,222"
+Health care & social assistance ,60611,"21,806"
+Health care & social assistance ,60612,0
+Health care & social assistance ,60613,"3,011"
+Health care & social assistance ,60614,"3,228"
+Health care & social assistance ,60615,770
+Health care & social assistance ,60616,"4,379"
+Health care & social assistance ,60617,"4,899"
+Health care & social assistance ,60618,"3,032"
+Health care & social assistance ,60619,894
+Health care & social assistance ,60620,584
+Health care & social assistance ,60621,"1,435"
+Health care & social assistance ,60622,"4,995"
+Health care & social assistance ,60623,"2,319"
+Health care & social assistance ,60624,"1,434"
+Health care & social assistance ,60625,"4,420"
+Health care & social assistance ,60626,"3,593"
+Health care & social assistance ,60627,0
+Health care & social assistance ,60628,"1,249"
+Health care & social assistance ,60629,"1,924"
+Health care & social assistance ,60630,"1,294"
+Health care & social assistance ,60631,"6,342"
+Health care & social assistance ,60632,571
+Health care & social assistance ,60633,14
+Health care & social assistance ,60634,"2,271"
+Health care & social assistance ,60635,0
+Health care & social assistance ,60636,0
+Health care & social assistance ,60637,0
+Health care & social assistance ,60638,472
+Health care & social assistance ,60639,689
+Health care & social assistance ,60640,"8,408"
+Health care & social assistance ,60641,"1,464"
+Health care & social assistance ,60643,"1,838"
+Health care & social assistance ,60644,0
+Health care & social assistance ,60645,"3,667"
+Health care & social assistance ,60646,"2,682"
+Health care & social assistance ,60647,"2,102"
+Health care & social assistance ,60649,"2,196"
+Health care & social assistance ,60651,661
+Health care & social assistance ,60652,429
+Health care & social assistance ,60653,"1,022"
+Health care & social assistance ,60655,381
+Health care & social assistance ,60656,341
+Health care & social assistance ,60657,"2,343"
+Health care & social assistance ,60659,"3,764"
+Health care & social assistance ,60660,"1,877"
+Health care & social assistance ,60661,0
+Health care & social assistance ,60666,0
+"Arts, entertainment & recreation ",60601,816
+"Arts, entertainment & recreation ",60602,74
+"Arts, entertainment & recreation ",60603,0
+"Arts, entertainment & recreation ",60604,0
+"Arts, entertainment & recreation ",60606,"1,100"
+"Arts, entertainment & recreation ",60607,324
+"Arts, entertainment & recreation ",60608,161
+"Arts, entertainment & recreation ",60609,68
+"Arts, entertainment & recreation ",60610,"3,331"
+"Arts, entertainment & recreation ",60611,"2,689"
+"Arts, entertainment & recreation ",60612,"1,036"
+"Arts, entertainment & recreation ",60613,"1,400"
+"Arts, entertainment & recreation ",60614,"2,225"
+"Arts, entertainment & recreation ",60615,28
+"Arts, entertainment & recreation ",60616,443
+"Arts, entertainment & recreation ",60617,0
+"Arts, entertainment & recreation ",60618,"1,370"
+"Arts, entertainment & recreation ",60619,0
+"Arts, entertainment & recreation ",60620,80
+"Arts, entertainment & recreation ",60621,0
+"Arts, entertainment & recreation ",60622,387
+"Arts, entertainment & recreation ",60623,15
+"Arts, entertainment & recreation ",60624,0
+"Arts, entertainment & recreation ",60625,194
+"Arts, entertainment & recreation ",60626,0
+"Arts, entertainment & recreation ",60627,0
+"Arts, entertainment & recreation ",60628,0
+"Arts, entertainment & recreation ",60629,21
+"Arts, entertainment & recreation ",60630,43
+"Arts, entertainment & recreation ",60631,0
+"Arts, entertainment & recreation ",60632,6
+"Arts, entertainment & recreation ",60633,0
+"Arts, entertainment & recreation ",60634,73
+"Arts, entertainment & recreation ",60635,3
+"Arts, entertainment & recreation ",60636,0
+"Arts, entertainment & recreation ",60637,0
+"Arts, entertainment & recreation ",60638,0
+"Arts, entertainment & recreation ",60639,0
+"Arts, entertainment & recreation ",60640,360
+"Arts, entertainment & recreation ",60641,63
+"Arts, entertainment & recreation ",60643,64
+"Arts, entertainment & recreation ",60644,3
+"Arts, entertainment & recreation ",60645,0
+"Arts, entertainment & recreation ",60646,62
+"Arts, entertainment & recreation ",60647,260
+"Arts, entertainment & recreation ",60649,10
+"Arts, entertainment & recreation ",60651,2
+"Arts, entertainment & recreation ",60652,0
+"Arts, entertainment & recreation ",60653,0
+"Arts, entertainment & recreation ",60655,0
+"Arts, entertainment & recreation ",60656,69
+"Arts, entertainment & recreation ",60657,731
+"Arts, entertainment & recreation ",60659,0
+"Arts, entertainment & recreation ",60660,86
+"Arts, entertainment & recreation ",60661,95
+"Arts, entertainment & recreation ",60666,0
+Accommodations & food services ,60601,"5,508"
+Accommodations & food services ,60602,"1,401"
+Accommodations & food services ,60603,"4,592"
+Accommodations & food services ,60604,"1,551"
+Accommodations & food services ,60606,"4,669"
+Accommodations & food services ,60607,"7,648"
+Accommodations & food services ,60608,"2,119"
+Accommodations & food services ,60609,781
+Accommodations & food services ,60610,"15,760"
+Accommodations & food services ,60611,"17,508"
+Accommodations & food services ,60612,"1,700"
+Accommodations & food services ,60613,"2,229"
+Accommodations & food services ,60614,"6,072"
+Accommodations & food services ,60615,"1,065"
+Accommodations & food services ,60616,"3,776"
+Accommodations & food services ,60617,"1,431"
+Accommodations & food services ,60618,"2,348"
+Accommodations & food services ,60619,474
+Accommodations & food services ,60620,843
+Accommodations & food services ,60621,153
+Accommodations & food services ,60622,"4,634"
+Accommodations & food services ,60623,"1,386"
+Accommodations & food services ,60624,214
+Accommodations & food services ,60625,"1,666"
+Accommodations & food services ,60626,899
+Accommodations & food services ,60627,0
+Accommodations & food services ,60628,600
+Accommodations & food services ,60629,"1,019"
+Accommodations & food services ,60630,830
+Accommodations & food services ,60631,"2,331"
+Accommodations & food services ,60632,"1,625"
+Accommodations & food services ,60633,104
+Accommodations & food services ,60634,"1,038"
+Accommodations & food services ,60635,250
+Accommodations & food services ,60636,287
+Accommodations & food services ,60637,569
+Accommodations & food services ,60638,"2,383"
+Accommodations & food services ,60639,"1,469"
+Accommodations & food services ,60640,"2,015"
+Accommodations & food services ,60641,"1,285"
+Accommodations & food services ,60643,723
+Accommodations & food services ,60644,203
+Accommodations & food services ,60645,421
+Accommodations & food services ,60646,560
+Accommodations & food services ,60647,"4,100"
+Accommodations & food services ,60649,205
+Accommodations & food services ,60651,281
+Accommodations & food services ,60652,520
+Accommodations & food services ,60653,259
+Accommodations & food services ,60655,259
+Accommodations & food services ,60656,404
+Accommodations & food services ,60657,"4,979"
+Accommodations & food services ,60659,830
+Accommodations & food services ,60660,"1,068"
+Accommodations & food services ,60661,"2,008"
+Accommodations & food services ,60666,"2,565"
+Other services (except public admin.) ,60601,"4,026"
+Other services (except public admin.) ,60602,733
+Other services (except public admin.) ,60603,"2,607"
+Other services (except public admin.) ,60604,"2,222"
+Other services (except public admin.) ,60606,"4,550"
+Other services (except public admin.) ,60607,"4,478"
+Other services (except public admin.) ,60608,943
+Other services (except public admin.) ,60609,957
+Other services (except public admin.) ,60610,"4,746"
+Other services (except public admin.) ,60611,"6,309"
+Other services (except public admin.) ,60612,841
+Other services (except public admin.) ,60613,752
+Other services (except public admin.) ,60614,"2,792"
+Other services (except public admin.) ,60615,409
+Other services (except public admin.) ,60616,"1,096"
+Other services (except public admin.) ,60617,292
+Other services (except public admin.) ,60618,"1,082"
+Other services (except public admin.) ,60619,396
+Other services (except public admin.) ,60620,769
+Other services (except public admin.) ,60621,147
+Other services (except public admin.) ,60622,"1,804"
+Other services (except public admin.) ,60623,494
+Other services (except public admin.) ,60624,270
+Other services (except public admin.) ,60625,601
+Other services (except public admin.) ,60626,251
+Other services (except public admin.) ,60627,0
+Other services (except public admin.) ,60628,209
+Other services (except public admin.) ,60629,342
+Other services (except public admin.) ,60630,515
+Other services (except public admin.) ,60631,425
+Other services (except public admin.) ,60632,"1,333"
+Other services (except public admin.) ,60633,0
+Other services (except public admin.) ,60634,336
+Other services (except public admin.) ,60635,124
+Other services (except public admin.) ,60636,314
+Other services (except public admin.) ,60637,391
+Other services (except public admin.) ,60638,755
+Other services (except public admin.) ,60639,494
+Other services (except public admin.) ,60640,696
+Other services (except public admin.) ,60641,587
+Other services (except public admin.) ,60643,325
+Other services (except public admin.) ,60644,150
+Other services (except public admin.) ,60645,409
+Other services (except public admin.) ,60646,298
+Other services (except public admin.) ,60647,"1,191"
+Other services (except public admin.) ,60649,256
+Other services (except public admin.) ,60651,207
+Other services (except public admin.) ,60652,213
+Other services (except public admin.) ,60653,132
+Other services (except public admin.) ,60655,215
+Other services (except public admin.) ,60656,205
+Other services (except public admin.) ,60657,"1,699"
+Other services (except public admin.) ,60659,329
+Other services (except public admin.) ,60660,421
+Other services (except public admin.) ,60661,"1,277"
+Other services (except public admin.) ,60666,50

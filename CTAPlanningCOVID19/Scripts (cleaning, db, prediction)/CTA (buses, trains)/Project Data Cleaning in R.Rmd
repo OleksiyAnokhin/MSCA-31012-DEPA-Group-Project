@@ -1,0 +1,188 @@
+---
+title: "Project Data Cleaning in R"
+author: "Oleksiy Anokhin"
+date: "6/13/2020"
+output: html_document
+---
+
+```{r, message = FALSE, warning = FALSE}
+# Install packages
+library(sp)
+library(rgdal)
+library(tidyverse)
+library(stringi)  
+```
+
+### 1. Zips for bus stops data
+
+```{r, message = FALSE, warning = FALSE}
+# Import zips shapefile and transform CRS 
+zips <- readOGR("cb_2015_us_zcta510_500k.shp")
+zips <- spTransform(zips, CRS("+proj=longlat +datum=WGS84 +ellps=WGS84 +towgs84=0,0,0"))
+
+# Read bus stops data
+bus_stops <- read_csv("CTA_BusStops.csv")
+```
+
+```{r, message = FALSE, warning = FALSE}
+# Rename two columns for long and lat
+bus_stops <- rename(bus_stops, longitude = POINT_X, latitude = POINT_Y)
+head(bus_stops)
+```
+
+```{r, message = FALSE, warning = FALSE}
+# Extract long and lat only
+long_lat <- bus_stops[ , c(13, 14)]
+head(long_lat)
+
+# Transform coordinates into a SpatialPointsDataFrame
+bus_stops_spatial <- SpatialPointsDataFrame(coords = long_lat, data = bus_stops, proj4string = CRS("+proj=longlat +datum=WGS84 +ellps=WGS84 +towgs84=0,0,0"))
+class(bus_stops_spatial) # [1] "SpatialPointsDataFrame"
+```
+
+```{r, message = FALSE, warning = FALSE}
+# Subset only the zipcodes in which points are found
+zips_subset <- zips[bus_stops_spatial, ]
+head(zips_subset)
+```
+
+```{r, message = FALSE, warning = FALSE}
+# NOTE: the column in zips_subset containing zipcodes is ZCTA5CE10
+# Use over() to overlay points in polygons and then add that to the original dataframe
+# Create a separate column
+bus_stops_zip <- over(bus_stops_spatial, zips_subset[, "ZCTA5CE10"]) 
+head(bus_stops_zip) # It works! I double check long and lat via https://www.melissa.com/v2/lookups/latlngzip4/
+
+# Merge bus stops with bus stop zips
+bus_stops <- cbind(bus_stops, bus_stops_zip)
+head(bus_stops)
+
+# Rename zip_code column
+bus_stops <- rename(bus_stops, zip_code = ZCTA5CE10)
+head(bus_stops)
+
+head(bus_stops[, 13:15])
+
+# Extract as csv
+# write.csv(bus_stops,'bus_stops_data.csv')
+```
+
+### 2. Zips for L Stations data
+
+```{r, message = FALSE, warning = FALSE}
+# Import zips shapefile and transform CRS 
+# zips <- readOGR("cb_2015_us_zcta510_500k.shp")
+# zips <- spTransform(zips, CRS("+proj=longlat +datum=WGS84 +ellps=WGS84 +towgs84=0,0,0"))
+
+# Read bus stops data
+l_stations <- read_csv("l_stations.csv")
+```
+
+```{r, message = FALSE, warning = FALSE}
+# Extract long and lat only and swap it
+long_lat <- l_stations[ , c(17, 18)]
+long_lat <- long_lat[c(2, 1)]
+
+
+# Transform coordinates into a SpatialPointsDataFrame
+l_stations_spatial <- SpatialPointsDataFrame(coords = long_lat, data = l_stations, proj4string = CRS("+proj=longlat +datum=WGS84 +ellps=WGS84 +towgs84=0,0,0"))
+class(l_stations_spatial) # [1] "SpatialPointsDataFrame"
+```
+
+```{r, message = FALSE, warning = FALSE}
+# Subset only the zipcodes in which points are found
+zips_subset <- zips[l_stations_spatial, ]
+
+# NOTE: the column in zips_subset containing zipcodes is ZCTA5CE10
+# Use over() to overlay points in polygons and then add that to the original dataframe
+# Create a separate column
+l_stations_zip <- over(l_stations_spatial, zips_subset[, "ZCTA5CE10"]) 
+head(l_stations_zip) # It works! I double check long and lat via https://www.melissa.com/v2/lookups/latlngzip4/
+```
+
+```{r, message = FALSE, warning = FALSE}
+# Merge bus stops with bus stop zips
+l_stations <- cbind(l_stations, l_stations_zip)
+
+# Rename zip_code column
+l_stations <- rename(l_stations, zip_code = ZCTA5CE10)
+head(l_stations)
+
+# Tolower column names
+names(l_stations)  <- tolower(names(l_stations))
+
+### write.csv(l_stations, "l_stations_data.csv", row.names = FALSE)
+```
+
+### 3. Zips for Park data
+
+```{r, message = FALSE, warning = FALSE}
+# Import zips shapefile and transform CRS 
+# zips <- readOGR("cb_2015_us_zcta510_500k.shp")
+# zips <- spTransform(zips, CRS("+proj=longlat +datum=WGS84 +ellps=WGS84 +towgs84=0,0,0"))
+```
+
+```{r, message = FALSE, warning = FALSE}
+# Read facilities data
+facilities <- read_csv("CPD_Facilities_initial.csv")
+
+# Column names to lower
+names(facilities) <- tolower(names(facilities))
+
+# Drop some columns
+facilities <- facilities %>% select (-c(objectid, the_geom, facility_t, gisobjid))
+
+# Rename columns
+facilities <- rename(facilities, object_title = park, object_type = facility_n, longitude = x_coord, latitude = y_coord)
+
+# Work with zips
+# Import zips shapefile and transform CRS 
+# zips <- readOGR("cb_2015_us_zcta510_500k.shp")
+# zips <- spTransform(zips, CRS("+proj=longlat +datum=WGS84 +ellps=WGS84 +towgs84=0,0,0"))
+
+# Extract long and lat only
+long_lat <- facilities[ , c(4, 5)]
+
+# Transform coordinates into a SpatialPointsDataFrame
+facilities_spatial <- SpatialPointsDataFrame(coords = long_lat, data = facilities, proj4string = CRS("+proj=longlat +datum=WGS84 +ellps=WGS84 +towgs84=0,0,0"))
+class(facilities_spatial) # [1] "SpatialPointsDataFrame"
+
+# Subset data
+zips_subset <- zips[facilities_spatial, ]
+
+# NOTE: the column in zips_subset containing zipcodes is ZCTA5CE10
+# Use over() to overlay points in polygons and then add that to the original dataframe
+# Create a separate column
+facilities_zip <- over(facilities_spatial, zips_subset[ , "ZCTA5CE10"])
+head(facilities_zip)
+
+# Merge facilities and zips
+facilities <- cbind(facilities, facilities_zip)
+
+# Rename zip_code column
+facilities <- rename(facilities, zip_code = ZCTA5CE10)
+head(facilities)
+
+# Drop NAs
+facilities <- facilities %>% drop_na()
+head(facilities)
+
+# Convert to lower case all dataframe
+facilities$object_title <- tolower(facilities$object_title)
+facilities$object_type <- tolower(facilities$object_type)
+
+# Capitalize each word
+facilities$object_title <- stri_trans_totitle(facilities$object_title) 
+facilities$object_type <- stri_trans_totitle(facilities$object_type) 
+
+# To capital case only column
+names(facilities) <- str_to_title(names(facilities))
+
+# Rename column names for Chris
+facilities <- rename(facilities, Park_No = Park_no, Park_Name = Object_title, Facility_Type = Object_type, Zip_codeid = Zip_code)
+head(facilities)
+
+# Save as .csv
+# write.csv(facilities, "CPD_Facilities.csv", row.names = FALSE)
+```
+

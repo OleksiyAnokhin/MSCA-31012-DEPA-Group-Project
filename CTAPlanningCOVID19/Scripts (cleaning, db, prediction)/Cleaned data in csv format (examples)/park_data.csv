@@ -1,0 +1,333 @@
+park_id,park_name,street_address,zip_code,acres,park_class
+1139,Ohio,4712 W Ohio St,60644,0.42,Mini-Park
+206,Altgeld (John),515 S Washtenaw Ave,60612,4.32,Community Park
+33,Rainey (Edward),4350 W 79Th St,60652,18.31,Regional Park
+260,Kelly (Edward),2725 W 41St St,60632,7.08,Community Park
+59,Oriole,5430 N Olcott Ave,60656,18.57,Regional Park
+1109,Hubbard (Gurdon),4950 W Hubbard St,60644,0.48,Mini-Park
+10,Marquette (Jacques),6734 S Kedzie Ave,60629,322.68,Citywide Park
+124,Simons (Almira),1640 N Drake Ave,60647,1.02,Community Park
+288,Golden Gate,500 E 130Th St,60627,5.2,Community Park
+65,Fernwood,10436 S Wallace St,60628,12.33,Community Park
+428,Warren (Laurence),6621 N Western Ave,60645,87.61,Citywide Park
+451,Sun Yat-Sen,300 W 24Th Pl,60616,0.32,Mini-Park
+131,Cragin,2611 N Lockwood Ave,60639,2.8,Neighborhood Park
+232,Eckersall (Walter Herbert),2430 E 82Nd St,60617,2.95,Neighborhood Park
+1058,Pietrowski (Sylvester),9650 S Avenue M,60617,0.55,Neighborhood Park
+373,"Blackwelder (I.S., Gertrude)",1800 W 115Th St,60643,5.05,Community Park
+93,Gladstone (William),5421 N Menard Ave,60630,1.25,Neighborhood Park
+254,Beverly,2460 W 102Nd St,60655,13.06,Community Park
+201,La Follette (Robert),1333 N Laramie Ave,60651,17.35,Regional Park
+1220,Levin (John),462 N Pine Ave,60644,5.76,Community Park
+1071,Wilson (John),1122 W 34Th Pl,60608,1.43,Neighborhood Park
+426,Brighton,3501 S Richmond St,60632,0.94,Neighborhood Park
+280,Spruce,1437 E 54Th St,60615,1.08,Neighborhood Park
+165,Indian Boundary,2500 W Lunt Ave,60645,13.06,Regional Park
+1036,Hoyne (Thomas),3417 S Hamilton Ave,60608,2.01,Neighborhood Park
+1001,Rainbow Beach,2873 E 75Th St,60649,64.14,Citywide Park
+485,Kennicott (Jonathan),4434 S Lake Park Ave,60653,2.5,Community Park
+1033,Harding (George),4912 S Calumet Ave,60615,0.65,Neighborhood Park
+275,Ronan (George),3000 W Argyle St,60625,13.86,Neighborhood Park
+13,Palmer (Potter),200 E 111Th St,60628,40.48,Regional Park
+9,Hamilton (Alexander),513 W 72Nd St,60621,29.95,Regional Park
+1132,Morgan (Thomas Leeds) Field,11710 S Morgan St,60643,2.84,Neighborhood Park
+1052,Munroe,2617 W 105Th St,60655,5.36,Community Park
+66,Euclid,9800 S Parnell Ave,60628,5.63,Community Park
+1053,Murray (David),1743 W 73Rd St,60636,3.04,Neighborhood Park
+19,Jackson (Andrew),6401 S Stony Island Ave,60637,542.89,Magnet Park
+241,Mather (Stephen Tyng),5835 N Lincoln Ave,60659,14.06,Regional Park
+229,Hiawatha,8029 W Forest Preserve Ave,60634,12.08,Community Park
+244,Gately (James),810 E 103Rd St,60628,25.04,Community Park
+129,Amundsen (Roald),6200 W Bloomingdale Ave,60639,15.46,Community Park
+379,White (Edward),1120 W 122Nd St,60643,4.59,Neighborhood Park
+3,Armour (Philip) Square,3309 S Shields Ave,60616,8.22,Community Park
+187,Brands,3285 N Elston Ave,60618,5.28,Community Park
+1041,Kensington,345 E 118Th St,60628,4.88,Neighborhood Park
+493,Kelly (John),3800 N Seminary Ave,60613,1.32,Passive Park
+296,Dooley (Thomas),3426 W 77Th St,60652,1.27,Neighborhood Park
+4,Fuller (Melville),331 W 45Th St,60609,10.5,Community Park
+18,Tuley (Murray),501 E 90Th Pl,60619,20.19,Regional Park
+1242,Seneca,228 E Chicago Ave,60611,0.82,Neighborhood Park
+1061,Schreiber,1552 W Schreiber Ave,60626,1.71,Neighborhood Park
+1064,Tilton (George),305 N Kostner,60624,0.98,Neighborhood Park
+84,Kilbourn,3501 N Kilbourn Ave,60641,11.93,Community Park
+1048,Memorial,149 W 73Rd St,60621,2.69,Neighborhood Park
+245,West Lawn,4233 W 65Th St,60629,16.73,Regional Park
+554,Park No. 554,1805 N Albany Ave,60647,0.44,Unimproved Park
+57,Monument,6700 N Avondale Ave,60631,0.98,Neighborhood Park
+1068,Wagner (Clarence),948 W 51St St,60609,0.93,Neighborhood Park
+1030,Fosco (Peter),1313 S Throop St,60608,3.33,Neighborhood Park
+148,Shabbona,6935 W Addison,60634,18.59,Regional Park
+264,Bogan (William),3939 W 79Th St,60652,19.33,Regional Park
+283,Erhler (William),2230 W Cortland St,60647,0.83,Neighborhood Park
+189,California,3843 N California Ave,60618,13.52,Community Park
+5,Cornell (Paul) Square,1809 W 50Th St,60609,8.19,Community Park
+1267,Lyle (John),7700 S Wallace St,60620,1.46,Passive Park
+1039,Kedvale,4140 W Hirsch St,60651,0.78,Neighborhood Park
+1043,White (Willye B.),7631 N Ashland Ave,60626,0.88,Community Park
+128,Mozart (Amadeus),2036 N Avers Ave,60647,4.41,Community Park
+179,Graver (Philip),1518 W 102Nd Pl,60643,4.75,Neighborhood Park
+1042,Ken-Well,2945 N Kenosha Ave,60641,2.53,Neighborhood Park
+1035,Horan (Albert),3035 W Van Buren St,60612,2.76,Neighborhood Park
+125,Hermosa,2240 N Kilbourn Ave,60639,4.7,Neighborhood Park
+16,Trumbull (Lyman),2400 E 105Th St,60617,18.52,Regional Park
+21,Washington (George),5531 S Dr Martin Luther King J,60637,366.84,Citywide Park
+486,Winnemac,5001 N Leavitt St,60625,22.01,Neighborhood Park
+482,Nash (Don) Comm. Ctr.,1833 E 71St St,60649,0.88,Community Park
+176,Cosme (Margaret),2100 W 91St St,60620,3.55,Neighborhood Park
+338,Jefferson (Nancy),3111 W Fulton Blvd,60612,0.63,Neighborhood Park
+106,Hamlin (Hannibal),3035 N Hoyne Ave,60618,8.16,Community Park
+1013,Leone (Sam) Beach,1222 W Touhy Ave,60626,2.54,Community Park
+214,"Wicker (Charles, Joel)",1425 N Damen Ave,60622,4.03,Community Park
+316,Wood (Elizabeth),2914 N Leavitt St,60618,0.44,Mini-Park
+1028,Micek (Frank),5311 S Hamilton Ave,60609,1.26,Neighborhood Park
+234,Hale (Nathan),6140 S Melvina Ave,60638,16.6,Regional Park
+334,"King (Martin Luther, Jr.)",1212 W 77Th St,60620,6.39,Regional Park
+1126,Merrill (George),2131 E 96Th St,60617,3.09,Neighborhood Park
+1055,Little Venice,2251 W 50Th Pl,60609,0.8,Neighborhood Park
+496,"Boler (Leo Roscoe, Sr.)",3601 W Arthington St,60624,1.81,Neighborhood Park
+1032,Haas (Joseph),2402 N Washtenaw Ave,60647,0.86,Neighborhood Park
+1022,Barrett (John),2022 W Cermak Rd,60608,0.65,Neighborhood Park
+239,Dawes (Charles),8040 S Damen Av,60620,16.26,Community Park
+1011,Lawler (Michael),5210 W 64Th St,60638,6.2,Community Park
+7,Sherman (John),1307 W 52Nd St,60609,60.6,Regional Park
+522,Wang (Chi Che),1762 W Diversey Pkwy,60657,1.97,Unimproved Park
+291,Stout (Florence),5446 S Greenwood Ave,60615,2.7,Neighborhood Park
+542,Bartelme (Mary),115 S. Sangamon St,60602,2.29,Neighborhood Park
+246,Touhy (Patrick),7348 N Paulina St,60626,6.35,Community Park
+1050,Moore (Maurice),5085 W Adams St,60644,3.2,Neighborhood Park
+1047,Garibaldi (Giuseppi),1520 W Polk St,60607,2.45,Neighborhood Park
+1073,Woodhull (Ross),7340 S East End Ave,60649,2.24,Neighborhood Park
+1040,Kells (George),3201 W Chicago Ave,60624,1.7,Neighborhood Park
+177,Brainerd,1246 W 92Nd St,60620,8.23,Community Park
+1038,Indian Road,6010 W Matson Ave,60646,2.85,Neighborhood Park
+22,Gage (George),2415 W 55Th St,60629,29.22,Regional Park
+1130,Monticello,1814 N Monticello Ave,60647,0.36,Mini-Park
+1031,Gross,2708 W Lawrence Ave,60625,1.4,Neighborhood Park
+47,Crescent,2230 W 108Th Pl,60643,5.18,Community Park
+1002,Clarendon Comm. Ctr.,4501 N Clarendon Ave,60640,8.3,Community Park
+500,Park No. 500,730 S Springfield Ave,60624,1.18,Neighborhood Park
+277,Nichols (John Fountain),1342 E 54Th St,60615,10.39,Community Park
+1062,"Kucinski-Murphy (Vicki, Rosebeth)",1635 W 33Rd Pl,60608,0.66,Neighborhood Park
+459,Ashe (Arthur) Beach,2701 E 74Th St,60649,2.18,Neighborhood Park
+141,Norwood,5801 N Natoma Ave,60631,14.04,Community Park
+251,Mount Greenwood,3724 W 111Th St,60655,48.21,Regional Park
+1072,Wolfe (Richard),3325 E 108Th St,60617,3.62,Neighborhood Park
+249,West Chatham,8223 S Princeton Ave,60620,15.02,Community Park
+370,Stars & Stripes,7000 W 51St Pl,60638,1.95,Neighborhood Park
+81,Avondale,3516 W School St,60618,1.18,Community Park
+122,Blackhawk,2318 N Lavergne Ave,60639,6.23,Community Park
+361,Violet,4120 W Taylor St,60624,0.52,Neighborhood Park
+266,Stateway,3658 S State St,60609,7.51,Community Park
+1265,Lane (George) Beach,1000 W Thorndale Ave,60660,0.79,Passive Park
+307,Minuteman,5940 S Central Ave,60638,8.91,Community Park
+443,Mcinerney (Thomas),4446-58 S. Emerald Ave,60609,1.32,Neighborhood Park
+235,Oakdale,965 W 95Th St,60643,9.03,Community Park
+1049,Meyering (William),7140 S Dr Martin Luther King J,60619,3.1,Neighborhood Park
+91,Rosedale,6312 W Rosedale Ave,60646,2.75,Community Park
+398,Sheil (Bernard) Comm. Ctr.,3505 N Southport Ave,60657,0.41,Community Park
+45,Ada (Sawyer Garrett),11250 S Ada St,60643,15.23,Regional Park
+218,Douglas (Stephen),1401 S Sacramento,60623,174.01,Citywide Park
+1069,Wallace,607 W 92Nd St,60620,0.86,Neighborhood Park
+1016,Strohacker (Howard),4347 W 54Th St,60632,3.68,Neighborhood Park
+259,Abbott (Robert),49 E 95Th St,60628,22.74,Community Park
+62,Edison (Thomas Alva),6755 N Northwest Hwy,60631,0.71,Neighborhood Park
+1021,Augusta (Carpenter),4431 W Augusta Blvd,60651,0.85,Neighborhood Park
+126,Kelvyn (William),4438 W Wrightwood Ave,60639,8.5,Community Park
+1025,"Taylor-Lauridsen (John, Emil)",647 W Root St,60609,4.49,Neighborhood Park
+255,Carver (George Washington),939 E 132Nd St,60627,19.42,Regional Park
+185,Revere (Paul),2509 W Irving Park Rd,60618,9.24,Community Park
+1029,Donovan (George),3620 S Lituanica Ave,60609,2.68,Neighborhood Park
+242,Hayes (Francis),2936 W 85Th St,60652,20.3,Regional Park
+26,Foster (J. Frank),1400 W 84Th St,60620,23.2,Regional Park
+95,Roberts (Daniel) Square,5230 W Argyle St,60630,3.67,Neighborhood Park
+12,Bessemer (Henry),8930 S Muskegon Ave,60617,18.43,Regional Park
+1211,Dickinson (Arthur),4117 N Lavergne Ave,60641,0.76,Neighborhood Park
+423,Oz,2021 N Burling St,60614,13.32,Community Park
+395,Leland Giants,7526 S Lowe Ave,60621,1.91,Neighborhood Park
+94,Jefferson (Thomas) Meml.,4822 N Long Ave,60630,7.16,Community Park
+261,Williams (Daniel Hale),2710 S Dearborn St,60616,8.51,Community Park
+364,Gill (Joseph),825 W Sheridan Rd,60613,2.21,Community Park
+202,Franklin (Benjamin),1449 S Kolin Ave,60623,8.47,Community Park
+448,Metcalfe (Ralph),4196 S State St,60609,6.21,Community Park
+1218,Lily Gardens,632 W 71St St,60621,2.57,Passive Park
+205,Sheridan (Philip Henry),910 S Aberdeen St,60607,3.91,Community Park
+511,Ward (A. Montgomery),630 N Kingsbury Ave,60610,2.89,Unimproved Park
+228,Horner (Henry),2741 W Montrose Ave,60618,54.84,Regional Park
+231,Rosenblum (J. Leslie),2000 E 75Th St,60649,10.84,Community Park
+14,Davis (Dr. Nathan) Square,4430 S Marshfield Ave,60609,8.13,Community Park
+272,Smith (Wendell),9912 S Princeton Ave,60628,4.72,Neighborhood Park
+494,Washington (Harold),5200 S Hyde Park Blvd,60615,12.97,Neighborhood Park
+1004,Bradley (Josephine),9729 S Yates Ave,60617,4.07,Neighborhood Park
+167,Chippewa,6758 N Sacramento Ave,60645,2.78,Neighborhood Park
+446,Lamb (Harold),1400 W 109Th St,60643,0.97,Neighborhood Park
+166,Pottawattomie,7340 N Rogers Ave,60626,8.79,Community Park
+492,Armstrong (Lillian Hardin),4433 S St Lawrence,60653,8.6,Community Park
+268,Durkin (Martin),8441 S Kolin Ave,60652,12.8,Community Park
+211,Skinner (Mark),1331 W  Monroe St,60606,7.32,Community Park
+365,Bauler (Mathias),517 W Wisconsin St,60614,0.64,Neighborhood Park
+132,Greenbaum (Henry),1729 N Kildare Ave,60639,1.65,Neighborhood Park
+227,Senn (Nicholas),5887 N Ridge Ave,60660,8.13,Community Park
+487,Broncho Billy,4437 N Magnolia Ave,60640,0.2,Mini-Park
+1051,Moran (Terrance),5727 S Racine Ave,60621,1.71,Neighborhood Park
+80,Athletic Field,3546 W Addison St,60618,3.87,Neighborhood Park
+140,Pleasant Point,6813 W Imlay St,60631,1.89,Neighborhood Park
+230,Piotrowski (Lillian),4200 W 31St St,60623,22.93,Regional Park
+497,Starr (Ellen Gates),2306 W Maypole Ave,60612,2.0,Neighborhood Park
+308,Linden,1139 N Pulaski Rd,60651,0.5,Neighborhood Park
+257,Wildwood,6950 N Hiawatha Ave,60646,9.22,Community Park
+534,Park No. 534,1300 S St Louis Ave,60623,3.17,Neighborhood Park
+1213,Ellis (Samuel),600 E 37Th St,60653,9.86,Community Park
+481,Tom (Ping) Meml.,300 W 18Th St,60616,17.36,Passive Park
+1012,O'Hallaren (Bernard),8335 S Honore St,60620,8.2,Community Park
+504,Mandrake (Henry Brown),900 E Pershing Rd.,60653,9.31,Community Park
+1010,Kenwood Comm.,1330 E 50Th St,60615,9.46,Community Park
+1248,Hartigan (David) Beach,1040 W Albion Ave,60626,2.16,Neighborhood Park
+207,Austin Town Hall,5610 W Lake St,60644,3.21,Community Park
+240,Rogers (Phillip),7345 N Washtenaw Ave,60645,25.82,Regional Park
+41,Field (Eugene),5100 N Ridgeway Ave,60625,15.78,Community Park
+271,Taylor (Robert Rochon),100 W 47Th St,60609,9.02,Community Park
+1015,Smith (Joseph Higgins),2526 W Grand Ave,60612,9.82,Community Park
+1278,Walnut,3801 W 45Th St,60632,0.53,Neighborhood Park
+48,Kennedy (Dennis),11320 S Western Ave,60655,18.16,Community Park
+1274,Sycamore,5109 S Greenwood Ave,60615,0.56,Neighborhood Park
+236,Robinson (Jackie),10540 S Morgan St,60643,16.79,Regional Park
+238,Wentworth (John),5625 S Mobile Ave,60638,20.11,Regional Park
+40,Gompers (Samuel),4222 W Foster Ave,60630,38.69,Regional Park
+1065,"Touhy-Herbert (John, Victor)",2106 W Adams St,60612,2.98,Neighborhood Park
+104,Emmerson (Louis),1820 W Granville Ave,60660,2.34,Neighborhood Park
+24,Grant (Ulysses),331 E Randolph St,60605,324.7,Magnet Park
+225,West Pullman,400 W 123Rd St,60628,15.64,Regional Park
+83,Independence,3945 N Springfield Ave,60618,7.86,Community Park
+1149,Saint Louis,347 N St Louis Ave,60624,0.37,Mini-Park
+546,Park No. 546,450 E. Benton Place,60611,4.57,Neighborhood Park
+130,Galewood,5729 W Bloomingdale Ave,60639,2.12,Neighborhood Park
+1044,Lowe (Samuel),5203 S Lowe Ave,60609,3.89,Neighborhood Park
+86,Mayfair,4550 W Sunnyside Ave,60630,2.75,Neighborhood Park
+75,Hollywood,3312 W Thorndale Ave,60659,6.48,Community Park
+175,Ridge,9625 S Longwood Dr,60643,9.32,Community Park
+1212,Green (Jeffery),6500 N Algonquin Ave,60646,1.07,Neighborhood Park
+115,Loyola,1230 W Greenleaf Ave,60626,21.62,Regional Park
+363,Burnside (Ambrose),9400 S Greenwood Ave,60619,5.92,Community Park
+1046,Marshfield,1637 W 87Th St,60620,0.76,Neighborhood Park
+1164,Mason (Elizabeth),4100 W West End Ave,60624,0.79,Neighborhood Park
+422,Park No. 422,3200 W Congress Pkwy,60624,0.54,Neighborhood Park
+127,Rutherford Sayre,6871 W Belden Ave,60635,12.33,Community Park
+385,Buttercup,4913 N Sheridan Rd,60640,0.88,Neighborhood Park
+335,Edgebrook,6525 N Hiawatha Ave,60646,9.34,Community Park
+466,Roosevelt (Theodore),62 W Roosevelt Rd,60605,1.64,Neighborhood Park
+452,Peterson (Pehr Samuel),5801 N Pulaski Rd,60646,22.24,Regional Park
+1122,Luella,10021 S Luella Ave,60617,1.2,Neighborhood Park
+60,Olympia,6566 N Avondale Ave,60631,10.19,Community Park
+1074,Wrightwood,2534 N Greenview Ave,60614,4.25,Neighborhood Park
+123,Riis (Jacob),6100 W Fullerton Ave,60639,56.84,Regional Park
+1270,Jonquil,1023 W Wrightwood Ave,60614,2.85,Neighborhood Park
+250,Archer (William Beatty),4901 S Kilbourn Ave,60632,13.22,Community Park
+216,Dvorak (Anton),1119 W Cullerton St,60608,5.63,Community Park
+248,Rowan (William),11546 S Avenue L,60617,17.62,Regional Park
+265,Scottsdale,4620 W 83Rd Pl,60652,2.32,Community Park
+247,Pasteur (Louis),5825 S Kostner Ave,60629,16.87,Regional Park
+85,Kolmar,4143 N Kolmar Ave,60641,0.87,Neighborhood Park
+233,Vittum (Harriet Elizabeth),5014 W 50Th St,60638,12.15,Community Park
+1037,Durso (John),421 W Locust St,60610,1.29,Neighborhood Park
+6,Russell (Martin) Square,3045 E 83Rd St,60617,11.47,Community Park
+484,Park No. 484,4701 W Marquette Rd,60638,10.0,Community Park
+121,"Bell (George,Jr.)",3020 N Oak Park Ave,60634,3.69,Neighborhood Park
+309,"Senka (Edward ""Duke"")",5656 S St Louis Ave,60629,18.83,Regional Park
+1057,Paschen (Christian),1932 W Lunt Ave,60626,0.79,Neighborhood Park
+480,Cotton Tail,44 W 15Th St,60616,2.19,Neighborhood Park
+524,Harris (Harriet),6200 S Drexel Ave,60637,2.03,Community Park
+285,Austin Foster,6020 W Foster Ave,60630,4.41,Neighborhood Park
+1063,Back Of The Yards,4920 S Throop St,60609,0.99,Neighborhood Park
+168,Matanky (Eugene),6937 N Ridge Blvd,60626,0.41,Mini-Park
+103,Chase (Salmon),4725 N Ashland Av,60640,4.57,Community Park
+1026,Clark (John),4615 W Jackson Blvd,60644,1.95,Neighborhood Park
+110,Welles (Gideon),2333 W Sunnyside Ave,60625,15.1,Regional Park
+27,Burnham (Daniel),425 E Mcfetridge Dr,60616,609.29,Magnet Park
+1159,Throop (Amos Gager),1811 S Throop St,60608,0.64,Neighborhood Park
+213,Harrison (Carter),1824 S Wood St,60608,17.39,Regional Park
+195,Sauganash,5861 N Kostner Ave,60646,4.65,Community Park
+23,Mckinley (William),2210 W Pershing Rd,60609,69.28,Regional Park
+293,Unity,2636 N Kimball Ave,60647,1.36,Neighborhood Park
+159,Ravenswood Manor,4626 N Manor Ave,60625,0.54,Neighborhood Park
+243,Lindblom (Robert),6054 S Damen Ave,60636,17.76,Regional Park
+406,Clemente (Roberto),2334 W Division St,60622,6.02,Community Park
+1147,Sacramento,3520 N Sacramento Ave,60618,0.8,Neighborhood Park
+1118,Langley,700 E 113Th St,60628,0.99,Neighborhood Park
+1003,Beilfuss (A.W.),1725 N Springfield Ave,60647,0.78,Neighborhood Park
+1154,Till-Mobley (Mamie),6410 S Ellis Ave,60637,0.43,Mini-Park
+362,Brooks (Gwendolyn),4542 S Greenwood Ave,60653,2.35,Neighborhood Park
+479,Jones (Mary Richardson),1240 S Plymouth Ct,60616,1.13,Neighborhood Park
+8,Ogden (William),6500 S Racine Ave,60636,60.54,Regional Park
+270,Cole (Nat King),361 E 85Th St,60619,4.68,Neighborhood Park
+204,Garfield (James),100 N Central Park Dr,60624,184.72,Citywide Park
+371,Valley Forge,7001 W 59Th St,60638,7.74,Community Park
+82,Jensen (Christ),4600 N Lawndale Ave,60625,2.55,Neighborhood Park
+208,Eckhart (Bernard),1330 W Chicago Ave,60622,8.12,Community Park
+210,Union,1501 W Randolph St,60606,13.46,Community Park
+2,Mcguane (John),2901 S Poplar Ave,60608,10.0,Community Park
+1027,Dean (John),1356 N Dean St,60622,0.66,Neighborhood Park
+219,Humboldt (Baron Von),1400 N Humboldt Dr,60622,206.09,Citywide Park
+256,Merrimac,6343 W Irving Park Rd,60634,9.11,Community Park
+17,Mann (James),3035 E 130Th St,60633,20.0,Regional Park
+472,Grandparents',5445 N Chester St,60656,1.79,Neighborhood Park
+1255,Berger (Albert),6227 N Sheridan Rd,60660,3.18,Neighborhood Park
+186,River,5100 N Francisco Ave,60625,30.0,Regional Park
+108,Seward (William),375 W Elm St,60610,8.64,Community Park
+1060,Mckiernan (David),10714 S Sawyer Ave,60655,1.82,Neighborhood Park
+1119,Thuis (Grace Zwiefka),4800 N Lavergne Ave,60630,0.3,Mini-Park
+286,Wentworth (John) Gardens,3770 S Wentworth Ave,60609,2.53,Community Park
+107,Lake Shore,254 E Chicago Ave,60611,3.69,Neighborhood Park
+305,Le Claire Courts - Hearst Comm. Ctr,5116 W 44Th St,60638,12.33,Community Park
+1080,Wesolek (Marlene),13407 S Avenue M,60633,0.34,Mini-Park
+109,Stanton (Edwin),640 W Scott St,60610,6.51,Community Park
+145,Wilson (Frank),4630 N Milwaukee Ave,60630,8.81,Community Park
+1008,Hermitage,5839 S Wood St,60636,3.95,Neighborhood Park
+1102,Gladys (Gunderson),3307 W Gladys Ave,60624,0.29,Mini-Park
+146,Chopin (Frederic),3420 N Long Ave,60641,8.29,Community Park
+267,Dunbar (Paul Laurence),200 E 31St St,60616,20.76,Regional Park
+61,Brooks (Oscar),7046 N Harlem Ave,60631,8.79,Community Park
+1054,Normandy,6660 W 52Nd St,60638,2.46,Neighborhood Park
+1204,Austin (Henry),5951 W Lake St,60644,5.48,Community Park
+1113,Jefferson (Thomas),1640 S Jefferson St,60616,1.87,Neighborhood Park
+1067,Veterans' Memorial,2820 E 98Th St,60617,3.87,Neighborhood Park
+393,Walsh (John),1722 N Ashland Ave,60614,1.91,Neighborhood Park
+1014,Sherwood (Jesse),5705 S Shields Ave,60621,6.2,Community Park
+237,Owens (Jesse),2100 E 88Th St,60617,17.23,Community Park
+1256,Howard (Ure) Beach,1300 W Howard St,60626,0.89,Neighborhood Park
+212,Shedd (John G.),3660 W 23Rd St,60623,1.13,Community Park
+203,Holstein,2200 N Oakley Ave,60647,2.74,Community Park
+1205,Barnard (Erastus),10441 S Longwood Dr,60643,1.97,Neighborhood Park
+1070,Washtenaw,2521 S Washtenaw Ave,60608,0.83,Neighborhood Park
+1045,Maplewood,1640 N Maplewood Ave,60647,1.11,Neighborhood Park
+29,Avalon,1215 E 83Rd St,60619,27.84,Regional Park
+1024,Bosley (William),3044 S Bonfield St,60608,1.94,Neighborhood Park
+120,Kosciuszko (Thadeuz),2732 N Avers Ave,60647,8.06,Community Park
+1020,Anderson (Louis),3748 S Prairie Ave,60653,0.86,Community Park
+320,Robichaux (Joseph),9247 S Eggleston Ave,60620,13.3,Community Park
+1210,Dixon (Lorraine),8931 S Dauphin Ave,60619,5.31,Passive Park
+147,Portage,4100 N Long Ave,60641,36.48,Regional Park
+400,Claremont,2342 W Flournoy St,60612,0.98,Neighborhood Park
+274,Legion,3100 W Bryn Mawr Ave,60659,49.15,Regional Park
+339,Buckthorn,4347 S Calumet Ave,60653,0.21,Mini-Park
+551,Park No. 551,353 N Des Plaines St,60661,1.02,Neighborhood Park
+258,Dunham (Robert),4640 N Melvina Ave,60630,14.0,Community Park
+15,Grand Crossing,7655 S Ingleside Ave,60619,18.9,Regional Park
+1019,Adams (George & Adele),1919 N Seminary Ave,60614,0.66,Neighborhood Park
+100,Lincoln (Abraham),200 W Fullerton Pkwy,60614,1212.15,Magnet Park
+263,Lake Meadows,3113 S Rhodes Ave,60616,10.11,Community Park
+278,"Houston (Jessie ""Ma"")",5001 S Cottage Grove Ave,60615,3.93,Neighborhood Park
+289,Brown (Sidney) Meml.,644 E 86Th St,60619,6.8,Community Park
+188,Green Briar,2650 W Peterson Ave,60659,3.33,Community Park
+515,Park No. 515,3517 W Arthington St,60624,5.18,Community Park
+1225,Harris (Ryan) Memorial,6701 S Lowe Ave,60621,2.72,Neighborhood Park
+11,Calumet,9801 S Avenue G,60617,198.98,Citywide Park
+287,Cooper (Jack),1332 W 117Th St,60643,4.35,Neighborhood Park
+387,Hoard (Edison),7221 S Dobson Ave,60619,2.5,Neighborhood Park
+290,South Lakeview,1300 W Wolfram St,60657,0.68,Neighborhood Park
+209,Columbus (Christopher),500 S Central Ave,60644,135.12,Citywide Park
+1017,Trebes,2250 N Clifton Ave,60614,1.57,Community Park
+1006,Commercial Club Pgd. Of Chicago,1845 W Rice St,60622,1.35,Community Park
+273,Lerner (Leo),7000 N Sacramento Ave,60645,8.39,Community Park
+405,Debow (Russell),1126 E 80Th St,60619,0.55,Neighborhood Park
+178,Hurley (Timothy),1901 W 100Th St,60643,1.21,Neighborhood Park
