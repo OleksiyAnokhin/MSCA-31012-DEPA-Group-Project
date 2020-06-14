@@ -15,16 +15,15 @@ Team: **MSCA Advisors**
 - _Oleksiy Anokhin_ [anokhin@uchicago.edu](anokhin@uchicago.edu)
 
 **Executive summary:** The Chicago Transit Authority is a pillar of Chicago public life, completing over 450
-million annual rides and employing more than 11 000 people It has and must continue to be an
-essential service for Chicagoans. The CTA is facing unprecedented challenges due to the economic fallout from COVID
-19 Social distancing has necessitated a dramatically reduced ridership compared to previous
-years This has left the CTA far below their expected revenue, a trend which is expected
+million annual rides and employing more than 11 000 people. It has and must continue to be an
+essential service for Chicagoans. The CTA is facing unprecedented challenges due to the economic fallout from COVID-19. Social distancing has necessitated a dramatically reduced ridership compared to previous
+years. This has left the CTA far below their expected revenue, a trend which is expected
 to continue in coming months. At the same time, organizations are encountering new and reinforced expectations of social
 justice and fairness This should be a consideration when changing services. 
 
 **We have constructed a data pipeline and minimal viable product** (which will allow
 CTA to understand and respond to this new environment. We compiled essential data that will allow the CTA to appropriately allocate resources moving
-forward, while considering both policy objectives and the shareholder expectations. The MVP of the database and analytical tool are built on zip code level analyses of bus and train ridership, socio economic indicators, COVID 19 cases, employment and public events We
+forward, while considering both policy objectives and the shareholder expectations. The MVP of the database and analytical tool are built on zip code level analyses of bus and train ridership, socio economic indicators, COVID-19 cases, employment and public events We
 have also provided suggestions for future iterations of this product.
 
 **Project tools:**
