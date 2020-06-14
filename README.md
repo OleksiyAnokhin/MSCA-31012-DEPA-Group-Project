@@ -57,7 +57,7 @@ have also provided suggestions for future iterations of this product.
 
  <span style="color:red">**Instructions for working with the repository:**</span>
 
-Dear Professor Bharawadj!
+Dear Professor Bharadwaj!
 
 For your convenience we summarized all important project files on GitHub and provide this description.
 
