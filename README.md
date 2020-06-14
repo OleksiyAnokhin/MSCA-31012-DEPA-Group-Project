@@ -89,8 +89,6 @@ We intentionally did not put Tableau books for your convenience. You will see ou
 
 - **Google Mobility Data** contains the analysis of this dataset
 
-- **Shapefiles** – a collections of files we used in our work
-
 - **Visualizing_Using Folium** – an example of data visualization, using this library
 
 Respectfully, 
