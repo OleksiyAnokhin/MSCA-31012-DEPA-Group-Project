@@ -14,6 +14,8 @@ Team: **MSCA Advisors**
 
 - _Oleksiy Anokhin_ [anokhin@uchicago.edu](anokhin@uchicago.edu)
 
+![](https://i.ibb.co/RzKG5GC/image.png)
+
 **Executive summary:** The Chicago Transit Authority is a pillar of Chicago public life, completing over 450
 million annual rides and employing more than 11 000 people. It has and must continue to be an
 essential service for Chicagoans. The CTA is facing unprecedented challenges due to the economic fallout from COVID-19. Social distancing has necessitated a dramatically reduced ridership compared to previous
